@@ -1,0 +1,19 @@
+[Desktop Entry]
+X-KDE-PluginInfo-Author=Josh Freeno
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-Depends=plasmashell
+X-KDE-PluginInfo-Email=freefreeno81@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL 3+
+X-KDE-PluginInfo-Name=Pitch Black
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=none
+X-Plasma-API=5.0
+
+[ContrastEffect]
+enabled=false
+contrast=0.2
+intensity=0.4
+saturation=1.7
+
+

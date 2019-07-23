@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=Look and feel theme with Pitch Black colors and more.
+Name=Pitch-Black
+X-KDE-PluginInfo-Author=Josh Freeno
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=freefreeno81@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL 3+
+X-KDE-PluginInfo-Name=Pitch-Black
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=https://github.com/freefreeno/Pitch-Black
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1298939,kns://plasma-themes.knsrc/api.kde-look.org/1298943,kns://aurorae.knsrc/api.kde-look.org/1308314,kns://icons.knsrc/api.kde-look.org/1243493
